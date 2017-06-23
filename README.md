@@ -1,0 +1,4 @@
+# JYTableViewAdapter
+基于MVVM的TableView适配器，TableView框架
+自己设计的TableView框架，已在多个项目中实践，可以大大提高开发效率，与大家分享
+有任何问题欢迎大家加QQ 609154188共同探讨
