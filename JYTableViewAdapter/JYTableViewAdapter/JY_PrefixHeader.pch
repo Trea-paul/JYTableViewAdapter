@@ -1,0 +1,30 @@
+//
+//  JY_PrefixHeader.pch
+//  JYTableViewAdapter
+//
+//  Created by TreaPaul on 2017/6/24.
+//  Copyright © 2017年 Trea-Paul. All rights reserved.
+//
+
+#ifndef JY_PrefixHeader_pch
+#define JY_PrefixHeader_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#import "JYMacros.h"
+
+#import "JYBaseViewController.h"
+#import "JYNavigationViewController.h"
+
+// Adapter
+#import "JYTableViewCell.h"
+#import "JYTableViewModel.h"
+#import "JYTableViewCellModel.h"
+#import "JYTableViewController.h"
+
+
+
+
+
+#endif /* JY_PrefixHeader_pch */
